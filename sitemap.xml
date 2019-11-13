@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://127.0.0.1:8000/</loc>
+     <loc>https://ywqskj.github.io/</loc>
      <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://127.0.0.1:8000/install/华为路由交换配置/</loc>
+     <loc>https://ywqskj.github.io/install/华为路由交换配置/</loc>
      <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://127.0.0.1:8000/install/中央空调基础知识/</loc>
+     <loc>https://ywqskj.github.io/install/某某酒店弱电日常知识/</loc>
+     <lastmod>2019-11-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ywqskj.github.io/install/中央空调基础知识/</loc>
      <lastmod>2019-11-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
